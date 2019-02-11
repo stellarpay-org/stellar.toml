@@ -1,0 +1,22 @@
+﻿[[CURRENCIES]]
+code="XLB"
+issuer="GAMA33LC7FK5RF4XE5HOVX456GX4VHDZUCJ7APY4TZ4IHG65ZWVXD333"
+status="live"
+display_decimals=2
+name="StellarPay"
+fixed_number=100000000
+desc="StellarPay is a digital token native to the Stellar Blockchain. a platform that connects banks, payments systems, and people. Integrate to move money quickly, reliably, and at almost no cost. XLB is shorthand for StellarPay."
+conditions="There will only ever be 100,000,000 XLB tokens in existence."
+image="https://stellarpay.org/img/XLB_icon.png"
+
+[DOCUMENTATION]
+ORG_NAME="StellarPay"
+ORG_URL="https://stellarpay.org"
+ORG_LOGO="https://stellarpay.org/img/XLB_icon.png"
+ORG_DESCRIPTION="Connecting the world to crypto.The easy way to send, receive, store, and trade digital currencies."
+ORG_PHYSICAL_ADDRESS="StellarPay Office, Singapore Land Tower, 50 Raffles Place, Singapore 04862"
+ORG_OFFICIAL_EMAIL="hello@stellarpay.org"
+ORG_TWITTER="StellarpayOrg"
+ORG_REDDIT="stellarpayorg"
+ORG_GITHUB="StellarpayOrg"
+ORG_MEDIUM="stellarpayorg"
